@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<a href="https://app.daily.dev/rajat-tomar"><img src="https://github.com/rajat-tomar/rajat-tomar/blob/master/devcard.svg" width="400" alt="Rajat Tomar's Dev Card"/></a>
+
 <!--
 **rajat-tomar/rajat-tomar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
