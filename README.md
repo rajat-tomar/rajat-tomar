@@ -1,6 +1,8 @@
-### Hello, I'm Rajat Tomar 👋
-
 <div align="center">
+
+## Hello, I'm Rajat Tomar 👋
+
+### Full-Stack Developer | DevOps Enthusiast
 
 Are you ready to transform your software development? I bring a powerful blend of Full-Stack Development expertise and DevOps prowess to create extraordinary applications that surpass expectations.
 
